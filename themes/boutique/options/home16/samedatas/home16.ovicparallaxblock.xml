@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widgets><widget><image>b15266aa5488f40946c2ed68ba4f4536.jpg</image><ratio>0.1</ratio><module/><hook/><custom_class>block-paralax3</custom_class><hook_postition>3</hook_postition><type>1</type><active>1</active><languages><language><lang_iso>en</lang_iso><content><![CDATA[<div class="section-content text-center">
+<h2 class="title"><strong>LOOKBOOK</strong> 2015/2016</h2>
+<h3 class="sub-title text-primary">THE NEW COLLECTION</h3>
+<a class="button btn-primary small" href="#">view all</a></div>]]></content></language><language><lang_iso>fr</lang_iso><content><![CDATA[]]></content></language></languages></widget></widgets>

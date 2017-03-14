@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widgets><widget><image>514965c69e9f48a224e3d36e0413b161.jpg</image><ratio>0.1</ratio><module/><hook/><custom_class>block-paralax1</custom_class><hook_postition>2</hook_postition><type>1</type><active>1</active><languages><language><lang_iso>en</lang_iso><content><![CDATA[<div class="row">
+<div class="col-sm-4">
+<div class="element-icon style3">
+<div class="icon"><i class="flaticon flaticon-origami28"> </i></div>
+<div class="content">
+<h4 class="title">delivery <strong>free</strong></h4>
+<span class="subtite">From $50 or purchase</span></div>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="element-icon style3">
+<div class="icon"><i class="flaticon flaticon-curvearrows9"> </i></div>
+<div class="content">
+<h4 class="title">exchange or <strong>refund</strong></h4>
+<span class="subtite">In 30 days</span></div>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="element-icon style3">
+<div class="icon"><i class="flaticon flaticon-headphones54"> </i></div>
+<div class="content">
+<h4 class="title">ONLINE <strong>SUPPORT</strong></h4>
+<span class="subtite">Support 24/7</span></div>
+</div>
+</div>
+</div>]]></content></language><language><lang_iso>fr</lang_iso><content><![CDATA[]]></content></language></languages></widget><widget><image>4cb16b571e9c7f3eb5089d570a2ba2ed.jpg</image><ratio>0.1</ratio><module>blocktestimonial</module><hook>displayHome</hook><custom_class>block-paralax2</custom_class><hook_postition>3</hook_postition><type>0</type><active>1</active><languages><language><lang_iso>en</lang_iso><content><![CDATA[]]></content></language><language><lang_iso>fr</lang_iso><content><![CDATA[]]></content></language></languages></widget></widgets>

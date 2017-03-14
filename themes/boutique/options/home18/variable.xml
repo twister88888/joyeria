@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright vn.hoanggia223@gmail.com -->
+<variable>
+	<fonts>
+		<var type="text" label="" decs="">font1</var>
+		<var type="text" label="" decs="">font2</var>
+		<var type="text" label="" decs="">font3</var>
+	</fonts>
+	<colors>
+		<var type="color" label="Main color" decs="">main</var>
+		<var type="color" label="Second color" decs="">Second</var>
+	</colors>
+	<settings>
+	</settings>
+</variable>

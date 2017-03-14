@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright vn.hoanggia223@gmail.com -->
+<variable>
+	<fonts>
+		<var type="text" label="Google font link 1" decs="">font1</var>
+		<var type="text" label="Google font link 2" decs="">font2</var>
+		<var type="text" label="Google font link 3" decs="">font3</var>
+		<var type="text" label="Google font link 4" decs="">font4</var>
+	</fonts>
+	<colors>
+		<var type="color" label="Main color" decs="">main</var>
+	</colors>
+	<settings>
+	</settings>
+</variable>

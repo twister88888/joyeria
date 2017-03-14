@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright DTS Team -->
+<widgets><widget><position_name>displayHomeTopColumn</position_name><theme_directory>boutique</theme_directory><option_directory/><layout>default</layout><custom_class>margin-top-100</custom_class><display_name>0</display_name><status>1</status><ordering>1</ordering><background/><carousel>0</carousel><parallax>0</parallax><params><![CDATA[{"parallax":{"ratio":0,"horizontalOffset":"0","verticalOffset":"0","scrollProperty":"scroll","positionProperty":"position"},"owl":{"items":"1","loop":"0","dots":"0","lazyLoad":"1","autoplay":"0","autoplayTimeout":"5000","autoplayHoverPause":"0","margin":"0","nav":"0","slideBy":1,"responsive":{"w1200":{"items":"4","nav":"1","margin":"0"},"w992":{"items":"3","nav":"1","margin":"0"},"w768":{"items":"2","nav":"0","margin":"0"},"w480":{"items":"2","nav":"0","margin":"0"},"w320":{"items":"1","nav":"0","margin":"0"},"w0":{"items":"1","nav":"0","margin":"0"}}},"lg":"3","md":"4","sm":"4","xs":"6","ts":"12"}]]></params><style><![CDATA[{"background_1":"","color_1":"","background_2":"","color_2":""}]]></style><bef><![CDATA[]]></bef><aft><![CDATA[]]></aft><languages><language><lang_iso>en</lang_iso><name><![CDATA[home banner border]]></name><description><![CDATA[<div class="block-banner20"><span class="top-left">&nbsp;</span> <span class="top-right">&nbsp;</span> <span class="bottom-left">&nbsp;</span> <span class="bottom-right">&nbsp;</span>
+<div class="inner">
+<div class="row">
+<div class="col-sm-4">
+<div class="banner-item"><a class="banner-border" href="#"><img src="http://kute-themes.com/prestashop/boutique/home20/img/cms/65.jpg" alt="" width="364" height="367" /></a></div>
+</div>
+<div class="col-sm-4">
+<div class="banner-item center"><a href="#"><img src="http://kute-themes.com/prestashop/boutique/home20/img/cms/67.jpg" alt="" width="370" height="490" /></a></div>
+</div>
+<div class="col-sm-4">
+<div class="banner-item"><a class="banner-border" href="#"><img src="http://kute-themes.com/prestashop/boutique/home20/img/cms/66.jpg" alt="" width="364" height="367" /></a></div>
+</div>
+</div>
+</div>
+</div>]]></description></language><language><lang_iso>fr</lang_iso><name><![CDATA[home banner border]]></name><description><![CDATA[<div class="block-banner20">
+<div class="inner">
+<div class="row">
+<div class="col-sm-4">
+<div class="banner-item"><a class="banner-border" href="#"><img src="http://kute-themes.com/prestashop/boutique/home20/img/cms/65.jpg" alt="" width="364" height="367" /></a></div>
+</div>
+<div class="col-sm-4">
+<div class="banner-item center"><a href="#"><img src="http://kute-themes.com/prestashop/boutique/home20/img/cms/67.jpg" alt="" width="370" height="490" /></a></div>
+</div>
+<div class="col-sm-4">
+<div class="banner-item"><a class="banner-border" href="#"><img src="http://kute-themes.com/prestashop/boutique/home20/img/cms/66.jpg" alt="" width="364" height="367" /></a></div>
+</div>
+</div>
+</div>
+</div>]]></description></language></languages><items/></widget><widget><position_name>displayHome</position_name><theme_directory>boutique</theme_directory><option_directory/><layout>default</layout><custom_class>margin-top-50</custom_class><display_name>0</display_name><status>1</status><ordering>1</ordering><background/><carousel>0</carousel><parallax>0</parallax><params><![CDATA[{"parallax":{"ratio":0,"horizontalOffset":"0","verticalOffset":"0","scrollProperty":"scroll","positionProperty":"position"},"owl":{"items":"1","loop":"0","dots":"0","lazyLoad":"1","autoplay":"0","autoplayTimeout":"5000","autoplayHoverPause":"0","margin":"0","nav":"0","slideBy":1,"responsive":{"w1200":{"items":"4","nav":"1","margin":"0"},"w992":{"items":"3","nav":"1","margin":"0"},"w768":{"items":"2","nav":"0","margin":"0"},"w480":{"items":"2","nav":"0","margin":"0"},"w320":{"items":"1","nav":"0","margin":"0"},"w0":{"items":"1","nav":"0","margin":"0"}}},"lg":"3","md":"4","sm":"4","xs":"6","ts":"12"}]]></params><style><![CDATA[{"background_1":"","color_1":"","background_2":"","color_2":""}]]></style><bef><![CDATA[]]></bef><aft><![CDATA[]]></aft><languages><language><lang_iso>en</lang_iso><name><![CDATA[About us]]></name><description><![CDATA[<div class="section-title style10 text-center margin-bottom-40">
+<h3>About us</h3>
+<div class="sub-title">welcome to boutique</div>
+</div>
+<div class="row">
+<div class="col-md-offset-2 col-sm-12 col-md-8">
+<div class="video  style2 video-lightbox"><img src="http://kute-themes.com/prestashop/boutique/home20/img/cms/bg-video.jpg" alt="" width="770" height="287" /><a class="link-lightbox button-play" href="#" data-videoid="134060140" data-videosite="vimeo">&nbsp;</a></div>
+<div class="montserratLight margin-top-30 text-center">
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+<img src="http://kute-themes.com/prestashop/boutique/home20/img/cms/signature.jpg" alt="" width="162" height="61" /></div>
+</div>
+</div>]]></description></language><language><lang_iso>fr</lang_iso><name><![CDATA[About us]]></name><description><![CDATA[<div class="section-title style10 text-center margin-bottom-40">
+<h3>About us</h3>
+<div class="sub-title">welcome to boutique</div>
+</div>
+<div class="row">
+<div class="col-md-offset-2 col-sm-12 col-md-8">
+<div class="video  style2 video-lightbox"><img src="images/bg-video.jpg" alt="" /></div>
+<div class="montserratLight margin-top-30 text-center">
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+<img src="http://kute-themes.com/prestashop/boutique/home20/img/cms/signature.jpg" alt="" width="162" height="61" /></div>
+</div>
+</div>]]></description></language></languages><items/></widget><widget><position_name>displayContactInfo</position_name><theme_directory>boutique</theme_directory><option_directory/><layout>default</layout><custom_class/><display_name>0</display_name><status>1</status><ordering>1</ordering><background/><carousel>0</carousel><parallax>0</parallax><params><![CDATA[{"parallax":{"ratio":0,"horizontalOffset":"0","verticalOffset":"0","scrollProperty":"scroll","positionProperty":"position"}}]]></params><style><![CDATA[{"background_1":"","color_1":"","background_2":"","color_2":""}]]></style><bef><![CDATA[]]></bef><aft><![CDATA[]]></aft><languages><language><lang_iso>en</lang_iso><name><![CDATA[contact info]]></name><description><![CDATA[<h6 class="margin-top-20">GIVE US A CALL</h6>
+<p class="roboto">Want to speak with a sales representative? Drop us a line and we&rsquo;d be happy to answer any questions!</p>
+<p style="font-size: 18px; color: #222; font-weight: bold;">(+800) 6868 2268</p>]]></description></language><language><lang_iso>fr</lang_iso><name><![CDATA[contact info]]></name><description><![CDATA[<h6 class="margin-top-20">GIVE US A CALL</h6>
+<p class="roboto">Want to speak with a sales representative? Drop us a line and we&rsquo;d be happy to answer any questions!</p>
+<p style="font-size: 18px; color: #222; font-weight: bold;">(+800) 6868 2268</p>]]></description></language></languages><items/></widget></widgets>

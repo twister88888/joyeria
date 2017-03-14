@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright DTS Team -->
+<widgets><widget><position_name>displayHomeTopColumn</position_name><theme_directory>boutique</theme_directory><option_directory/><layout>default</layout><custom_class>margin-top-30</custom_class><display_name>0</display_name><status>1</status><ordering>1</ordering><background/><carousel>0</carousel><parallax>0</parallax><params><![CDATA[{"parallax":{"ratio":0,"horizontalOffset":"0","verticalOffset":"0","scrollProperty":"scroll","positionProperty":"position"},"owl":{"items":"1","loop":"0","dots":"0","lazyLoad":"1","autoplay":"0","autoplayTimeout":"5000","autoplayHoverPause":"0","margin":"0","nav":"0","slideBy":1,"responsive":{"w1200":{"items":"4","nav":"1","margin":"0"},"w992":{"items":"3","nav":"1","margin":"0"},"w768":{"items":"2","nav":"0","margin":"0"},"w480":{"items":"2","nav":"0","margin":"0"},"w320":{"items":"1","nav":"0","margin":"0"},"w0":{"items":"1","nav":"0","margin":"0"}}},"lg":"3","md":"4","sm":"4","xs":"6","ts":"12"}]]></params><style><![CDATA[{"background_1":"","color_1":"","background_2":"","color_2":""}]]></style><bef><![CDATA[]]></bef><aft><![CDATA[]]></aft><languages><language><lang_iso>en</lang_iso><name><![CDATA[banner text]]></name><description><![CDATA[<div class="row section-block-text">
+<div class="col-sm-6 item">
+<div class="block-text">
+<p>boutique is not over with fashion fever week!</p>
+<p class="primary">ends Dec 29th</p>
+</div>
+</div>
+<div class="col-sm-6 item">
+<div class="block-text" style="background-color: #9ec8b3;">
+<p>boutique exclusives up to 90% + extra 10%</p>
+<p class="primary">ends Dec 29th</p>
+</div>
+</div>
+</div>]]></description></language><language><lang_iso>fr</lang_iso><name><![CDATA[banner text]]></name><description><![CDATA[<div class="row section-block-text">
+<div class="col-sm-6 item">
+<div class="block-text">
+<p>boutique is not over with fashion fever week!</p>
+<p class="primary">ends Dec 29th</p>
+</div>
+</div>
+<div class="col-sm-6 item">
+<div class="block-text" style="background-color: #9ec8b3;">
+<p>boutique exclusives up to 90% + extra 10%</p>
+<p class="primary">ends Dec 29th</p>
+</div>
+</div>
+</div>]]></description></language></languages><items/></widget><widget><position_name>displayContactInfo</position_name><theme_directory>boutique</theme_directory><option_directory/><layout>default</layout><custom_class/><display_name>0</display_name><status>1</status><ordering>1</ordering><background/><carousel>0</carousel><parallax>0</parallax><params><![CDATA[{"parallax":{"ratio":0,"horizontalOffset":"0","verticalOffset":"0","scrollProperty":"scroll","positionProperty":"position"}}]]></params><style><![CDATA[{"background_1":"","color_1":"","background_2":"","color_2":""}]]></style><bef><![CDATA[]]></bef><aft><![CDATA[]]></aft><languages><language><lang_iso>en</lang_iso><name><![CDATA[contact info]]></name><description><![CDATA[<h6 class="margin-top-20">GIVE US A CALL</h6>
+<p class="roboto">Want to speak with a sales representative? Drop us a line and we&rsquo;d be happy to answer any questions!</p>
+<p style="font-size: 18px; color: #222; font-weight: bold;">(+800) 6868 2268</p>]]></description></language><language><lang_iso>fr</lang_iso><name><![CDATA[contact info]]></name><description><![CDATA[<h6 class="margin-top-20">GIVE US A CALL</h6>
+<p class="roboto">Want to speak with a sales representative? Drop us a line and we&rsquo;d be happy to answer any questions!</p>
+<p style="font-size: 18px; color: #222; font-weight: bold;">(+800) 6868 2268</p>]]></description></language></languages><items/></widget></widgets>
